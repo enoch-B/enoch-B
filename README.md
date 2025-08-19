@@ -56,6 +56,5 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enoch-B&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=enoch-B&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
