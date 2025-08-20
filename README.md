@@ -50,11 +50,11 @@
 
 <div align="center">
   
-![Henok's GitHub stats](https://github-readme-stats.vercel.app/api?username=enoch-B&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9)
+![enoch-B's Stats](https://github-readme-stats.vercel.app/api?username=enoch-B&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=enoch-B&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e)
+![enoch-B's Streak](https://github-readme-streak-stats.herokuapp.com/?user=enoch-B&theme=highcontrast&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enoch-B&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
+![enoch-B's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enoch-B&theme=highcontrast&show_icons=true&hide_border=false&layout=compact)
 
 
 </div>
