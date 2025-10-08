@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Henok Birhanu</h1>
 <h3 align="center">A passionate Computer Science Major and Full Stack Developer from Ethiopia</h3>
 
-<h2>📄 Want To Know More? Checkout My <a href="https://drive.google.com/file/d/1uxq7Ng-zUI9vmh5DVV-HQJ3-lz-uy1-t/view?usp=sharing">Resume</a></h2>
+<h2>📄 Want To Know More? Checkout My <a href="https://drive.google.com/file/d/1wQwbovoj0rFHF_PRk2ABmAy4aSfGJPqR/view?usp=sharing">Resume</a></h2>
 
 <h2>🚀 My Tech Stack</h2>
 
