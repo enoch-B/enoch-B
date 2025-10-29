@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Computer Science Major and Full Stack Developer from Ethiopia</h3>
 
 <h2>📄 Want To Know More? Checkout My <a href="https://drive.google.com/file/d/1wQwbovoj0rFHF_PRk2ABmAy4aSfGJPqR/view?usp=sharing">Resume</a></h2>
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=enoch-B)
+
 
 <h2>🚀 My Tech Stack</h2>
 
@@ -47,9 +47,18 @@
   <a href="mailto:henokbirhanu1622@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"/></a>
 </p>
 
+
+
+
 <h2>📊 GitHub Stats</h2>
 
+
 <div align="center">
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=enoch-B.enoch-B" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/enoch-B?label=Followers&style=social" alt="Followers"/>
+</p>
   
 ![enoch-B's Stats](https://github-readme-stats.vercel.app/api?username=enoch-B&theme=highcontrast&show_icons=true&hide_border=false&count_private=true)
 
